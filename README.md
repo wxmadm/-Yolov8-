@@ -45,6 +45,7 @@ pip install ultralytics==8.2.2
 
 #配置 PyTorch
 conda install pytorch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 pytorch-cuda=11.8 -c pytorch -c nvidia
+```
 
 ### 3.3 其他依赖包安装
 pip install -r requirements.txt
