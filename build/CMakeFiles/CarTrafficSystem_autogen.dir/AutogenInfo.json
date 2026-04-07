@@ -1,0 +1,167 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/Desktop/car/build/CarTrafficSystem_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Desktop/car/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Desktop/car/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Desktop/car",
+	"CMAKE_EXECUTABLE" : "D:/MSYS2/ucrt64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/Desktop/car/CMakeLists.txt",
+		"D:/Desktop/car/build/CMakeFiles/4.2.3/CMakeSystem.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows-Initialize.cmake",
+		"D:/Desktop/car/build/CMakeFiles/4.2.3/CMakeCXXCompiler.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeGenericSystem.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeInitializeConfigs.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/WindowsPaths.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeCXXInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Compiler/GNU-CXX.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Compiler/GNU.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows-GNU.cmake",
+		"D:/Desktop/car/build/CMakeFiles/4.2.3/CMakeRCCompiler.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeRCInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows-windres.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Linker/GNU-CXX.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Linker/GNU.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/Platform/Linker/GNU.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeParseArguments.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeParseArguments.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/opencv4/OpenCVConfig-version.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/opencv4/OpenCVConfig.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/FindPackageMessage.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/opencv4/OpenCVModules.cmake",
+		"D:/MSYS2/ucrt64/lib/cmake/opencv4/OpenCVModules-release.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/Desktop/car",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/Desktop/car/build/CarTrafficSystem_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "CarTrafficSystem_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/Desktop/car/CarProcessor.h",
+			"MU",
+			"EWIEGA46WW/moc_CarProcessor.cpp",
+			null
+		],
+		[
+			"D:/Desktop/car/DatabaseService.h",
+			"MU",
+			"EWIEGA46WW/moc_DatabaseService.cpp",
+			null
+		],
+		[
+			"D:/Desktop/car/PlayMusic.h",
+			"MU",
+			"EWIEGA46WW/moc_PlayMusic.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/Desktop/car/build/CarTrafficSystem_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Desktop/car/build/CarTrafficSystem_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"_CRT_SECURE_NO_WARNINGS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Desktop/car/build",
+		"D:/Desktop/car",
+		"D:/MSYS2/ucrt64/include/QtWidgets",
+		"D:/MSYS2/ucrt64/include/QtGui",
+		"D:/MSYS2/ucrt64/include/QtCore",
+		"D:/MSYS2/ucrt64/share/qt5/mkspecs/win32-g++",
+		"D:/MSYS2/ucrt64/include/opencv4",
+		"D:/MSYS2/ucrt64/include",
+		"D:/MSYS2/ucrt64/include/c++/15.2.0",
+		"D:/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32",
+		"D:/MSYS2/ucrt64/include/c++/15.2.0/backward",
+		"D:/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+		"D:/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/MSYS2/ucrt64/bin/c++.exe",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"D:/MSYS2/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/Desktop/car/build/CarTrafficSystem_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "D:/Desktop/car/build/CMakeFiles/CarTrafficSystem_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/MSYS2/ucrt64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/MSYS2/ucrt64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "D:/Desktop/car/build/CMakeFiles/CarTrafficSystem_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/Desktop/car/CarProcessor.cpp", "MU", null ],
+		[ "D:/Desktop/car/DatabaseService.cpp", "MU", null ],
+		[ "D:/Desktop/car/PlayMusic.cpp", "MU", null ],
+		[ "D:/Desktop/car/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
